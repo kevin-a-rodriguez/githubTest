@@ -1,3 +1,4 @@
-for hellos in range(0,3):
+world = 10
+
+for hellos in world:
     print("Hello World!")
-    print(hellos)
